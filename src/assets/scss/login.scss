@@ -1,0 +1,78 @@
+body{
+    background: linear-gradient(rgba(135, 30, 153, 0.9),rgba(135, 30, 153, 0.9) ), url('../svg/background.svg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.minion-box{
+    background: linear-gradient(rgba(135, 30, 153, 0.4), rgba(135, 30, 153, 0.4)), url('../img/minions.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 560px;
+    padding: 94px 25px;
+}
+
+.form-container{
+    background: #FFFFFF;
+    box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.3);
+    min-height: 734px;
+    padding-top: 126px;
+}
+
+.btn-outline-light{
+    border: 3px solid #FFFFFF;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 700;
+    width: 349px;
+}
+
+.custom-label{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(68, 68, 68, 0.5);
+}
+
+.form-control-lg {
+    border-radius: unset;
+}
+
+.form-control {
+    background-color: unset;
+    background-clip: unset;
+    border: unset;
+    border-radius: unset;
+}
+
+input {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: unset;
+    border: none;
+    border-bottom: 1px solid rgba(68, 68, 68, 0.5) !important;
+}
+
+.btn-primary{
+    background: #871E99;
+    border-color: #871E99;
+    padding: 15px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 100%;
+    border-radius: 20px;
+    width: 240px;
+}
+
+
+
+.btn-link{
+    color: #871E99;
+    font-weight: 500;
+    font-size: 18px;
+}

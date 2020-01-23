@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19f71748.chunk.css",
+    "main.js": "/static/js/main.c82647bb.chunk.js",
+    "main.js.map": "/static/js/main.c82647bb.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.151aedf4.js",
+    "runtime~main.js.map": "/static/js/runtime~main.151aedf4.js.map",
+    "static/css/2.764ccc25.chunk.css": "/static/css/2.764ccc25.chunk.css",
+    "static/js/2.93a59f79.chunk.js": "/static/js/2.93a59f79.chunk.js",
+    "static/js/2.93a59f79.chunk.js.map": "/static/js/2.93a59f79.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e3e4041037dae2143f518b60c6e0a08b.js": "/precache-manifest.e3e4041037dae2143f518b60c6e0a08b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.19f71748.chunk.css.map": "/static/css/main.19f71748.chunk.css.map",
+    "static/media/login.scss": "/static/media/minions.151c3331.png"
+  }
+}
